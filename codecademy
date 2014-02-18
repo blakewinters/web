@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>this is a page sandwich</title>
+    </head>
+    <body>
+        <h1>Blake Summers</h1>
+        <img src="https://lh3.googleusercontent.com/-eBntmW4GYD0/Th3wv9y0CLI/AAAAAAAAAHo/HmzmrzQ-Wjk/s374-no/me.jpg"/>
+        <p>I am 24 years old</p>
+        <p>I am a consultant</p>
+        <p>I like to rock climb</p>
+        <a href="www.linkedin.com/pub/blake-summers/48/610/69b/">Here is my linked in page.</a>
+        <p></p>
+        <a href="https://twitter.com/blakewinters">Here is my twitter page.</a>
+    </body>
+</html>
